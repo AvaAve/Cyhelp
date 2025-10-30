@@ -1,6 +1,5 @@
 This is the Cyhelp Chatbot project, I created it during the Girls Who Code 2025 Summer Pathways program. By answering the prompts provided by the chatbot, the player can expect to learn about the field of Cybersecurity and the CIA Triad. 
-Originally created on Replit in Python.
-One of five Python Cybersecurity projects from Pathways.
+Originally created on Replit in Python and one of five Python Cybersecurity projects from Pathways.
 During this I learned the basics of making a chatbot in Python, ensuring the correct order and figuring out the loop structure was a bit tricky at first, but I did learn how to do it correctly in the end.
 
 ### Project Requirements
@@ -29,4 +28,4 @@ README.md file give you more documentation and information about a program. They
 ### ← main.py
 This is where you will write your main program.
 
-https://award.athena.hackclub.com/?utm_source=readme
+Created for Athena Award
