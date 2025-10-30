@@ -1,6 +1,6 @@
 This is the Cyhelp Chatbot project, I created it during the Girls Who Code 2025 Summer Pathways program. By answering the prompts provided by the chatbot, the player can expect to learn about the field of Cybersecurity and the CIA Triad. 
 Originally created on Replit in Python and one of five Python Cybersecurity projects from Pathways.
-During this I learned the basics of making a chatbot in Python, ensuring the correct order and figuring out the loop structure was a bit tricky at first, but I did learn how to do it correctly in the end.
+During this, I learned the basics of making a chatbot in Python, ensuring the correct order and figuring out the loop structure was a bit tricky at first, but I did learn how to do it correctly in the end.
 
 ### Project Requirements
 Your project should:
